@@ -1,0 +1,4 @@
+﻿  SP_LABS6.cpp
+C:\Users\PCPC\source\repos\Spsem5\6\SP_LABS6\SP_LABS6.cpp(102,41): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\PCPC\source\repos\Spsem5\6\SP_LABS6\SP_LABS6.cpp(161,12): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+  SP_LABS6.vcxproj -> C:\Users\PCPC\source\repos\Spsem5\6\x64\Debug\SP_LABS6.exe
